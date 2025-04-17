@@ -2,7 +2,13 @@ function sayMyName(){
     console.log("a")
     console.log("n")
     console.log("s")
-    console.log("H")   
+    console.log("H") 
+    console.log(" ")  
+    console.log("S")
+    console.log("I")
+    console.log("N")
+    console.log("G") 
+    console.log("H") 
 }
 sayMyName()
 
