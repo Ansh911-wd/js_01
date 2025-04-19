@@ -9,6 +9,7 @@ newDiv.textContent = 'Hello, DOM!';
 
 // Add a class to the div
 newDiv.classList.add('my-div');
+newDiv.classList.delete('my-div');
 
 // Append the div to the body
 body.appendChild(newDiv);
